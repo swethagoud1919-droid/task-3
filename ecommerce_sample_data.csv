@@ -1,0 +1,14 @@
+order_id,order_date,status,customer_name,city,product_name,category,quantity,unit_price,line_revenue
+1001,2026-10-01,Delivered,Aarav Sharma,Hyderabad,Wireless Mouse,Electronics,2,650.0,1300.0
+1001,2026-10-01,Delivered,Aarav Sharma,Hyderabad,Notebook Pack,Stationery,3,180.0,540.0
+1002,2026-10-03,Delivered,Diya Reddy,Bengaluru,Keyboard,Electronics,1,1200.0,1200.0
+1002,2026-10-03,Delivered,Diya Reddy,Bengaluru,Water Bottle,Home,2,350.0,700.0
+1003,2026-10-08,Shipped,Aarav Sharma,Hyderabad,Desk Lamp,Home,1,950.0,950.0
+1003,2026-10-08,Shipped,Aarav Sharma,Hyderabad,USB Drive,Electronics,2,500.0,1000.0
+1004,2026-10-10,Delivered,Kabir Patel,Mumbai,Wireless Mouse,Electronics,1,650.0,650.0
+1004,2026-10-10,Delivered,Kabir Patel,Mumbai,Water Bottle,Home,1,350.0,350.0
+1005,2026-10-12,Pending,Meera Rao,Hyderabad,Keyboard,Electronics,2,1200.0,2400.0
+1006,2026-10-15,Delivered,Ishaan Gupta,Chennai,Notebook Pack,Stationery,5,180.0,900.0
+1006,2026-10-15,Delivered,Ishaan Gupta,Chennai,USB Drive,Electronics,1,500.0,500.0
+1007,2026-10-18,Delivered,Diya Reddy,Bengaluru,Desk Lamp,Home,1,950.0,950.0
+1007,2026-10-18,Delivered,Diya Reddy,Bengaluru,Wireless Mouse,Electronics,1,650.0,650.0
